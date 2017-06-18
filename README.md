@@ -9,3 +9,5 @@ The idea of the talk was:
   * to give a basic introduction to how to use the FreeCAD 3D design program.
 
 I have included the Libre Office presentation file, as well as all the FreeCAD projects that I showed during the talk.
+
+This [release](https://github.com/highfellow/parametric-whistle-talk/releases/tag/files-from-talk-17-6-2017) has the versions of the files that I used in the talk at the LAMM Space on 17th June 2017.
